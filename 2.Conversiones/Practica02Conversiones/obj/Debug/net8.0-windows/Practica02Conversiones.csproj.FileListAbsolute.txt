@@ -1,0 +1,16 @@
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\bin\Debug\net8.0-windows\Practica02Conversiones.exe
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\bin\Debug\net8.0-windows\Practica02Conversiones.deps.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\bin\Debug\net8.0-windows\Practica02Conversiones.runtimeconfig.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\bin\Debug\net8.0-windows\Practica02Conversiones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\bin\Debug\net8.0-windows\Practica02Conversiones.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.Form1.resources
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.csproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\refint\Practica02Conversiones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\Practica02Conversiones.genruntimeconfig.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Practica02Conversiones\Practica02Conversiones\obj\Debug\net8.0-windows\ref\Practica02Conversiones.dll
