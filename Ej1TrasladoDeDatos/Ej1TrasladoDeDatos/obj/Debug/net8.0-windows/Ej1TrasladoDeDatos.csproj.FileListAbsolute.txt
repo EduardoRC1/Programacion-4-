@@ -1,0 +1,16 @@
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.Form1.resources
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.csproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\bin\Debug\net8.0-windows\Ej1TrasladoDeDatos.exe
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\bin\Debug\net8.0-windows\Ej1TrasladoDeDatos.deps.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\bin\Debug\net8.0-windows\Ej1TrasladoDeDatos.runtimeconfig.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\bin\Debug\net8.0-windows\Ej1TrasladoDeDatos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\bin\Debug\net8.0-windows\Ej1TrasladoDeDatos.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\refint\Ej1TrasladoDeDatos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\Ej1TrasladoDeDatos.genruntimeconfig.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Ej1TrasladoDeDatos\Ej1TrasladoDeDatos\obj\Debug\net8.0-windows\ref\Ej1TrasladoDeDatos.dll
