@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Area_y_Perimetro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e367c194f4392478d552374369baec6b75d0bf46")]
 [assembly: System.Reflection.AssemblyProductAttribute("Area_y_Perimetro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Area_y_Perimetro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

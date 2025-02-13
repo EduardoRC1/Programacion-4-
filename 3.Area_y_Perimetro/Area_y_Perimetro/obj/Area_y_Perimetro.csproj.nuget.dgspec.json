@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj": {}
+    "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\3.Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj": {
+    "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\3.Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj",
+        "projectUniqueName": "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\3.Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj",
         "projectName": "Area_y_Perimetro",
-        "projectPath": "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj",
+        "projectPath": "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\3.Area_y_Perimetro\\Area_y_Perimetro\\Area_y_Perimetro.csproj",
         "packagesPath": "C:\\Users\\reyna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\Area_y_Perimetro\\Area_y_Perimetro\\obj\\",
+        "outputPath": "C:\\Users\\reyna\\OneDrive\\Desktop\\VB.NET\\3.Area_y_Perimetro\\Area_y_Perimetro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
