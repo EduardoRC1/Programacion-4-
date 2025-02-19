@@ -1,0 +1,33 @@
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.exe
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.deps.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.runtimeconfig.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema_De_Calificaciones.Form1.resources
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.csproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\refint\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.genruntimeconfig.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\ref\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.exe
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.deps.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.runtimeconfig.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\bin\Debug\net8.0-windows\Sistema De Calificaciones.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema_De_Calificaciones.Form1.resources
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema_De_Calificaciones.Properties.Resources.resources
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.csproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\refint\Sistema De Calificaciones.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\Sistema De Calificaciones.genruntimeconfig.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\5.Sistema De Calificaciones\Sistema De Calificaciones\obj\Debug\net8.0-windows\ref\Sistema De Calificaciones.dll
