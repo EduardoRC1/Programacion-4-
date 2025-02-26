@@ -1,0 +1,17 @@
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.Form1.resources
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.csproj.GenerateResource.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.csproj.CoreCompileInputs.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\bin\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.exe
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\bin\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.deps.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\bin\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.runtimeconfig.json
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\bin\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\bin\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\refint\Examen2doParcial_SignosZodiacos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.pdb
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.genruntimeconfig.cache
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\ref\Examen2doParcial_SignosZodiacos.dll
+C:\Users\reyna\OneDrive\Desktop\VB.NET\Examen2doParcial_SignosZodiacos\Examen2doParcial_SignosZodiacos\obj\Debug\net8.0-windows\Examen2doParcial_SignosZodiacos.Properties.Resources.resources
